@@ -2,6 +2,8 @@
 
 **AirSafe** is an automated harmful gas detection and alert system designed to ensure safety by continuously monitoring air quality. Using an analog gas sensor, the system detects the presence of harmful gases and activates visual and auditory alerts when gas levels exceed a safe threshold. The system also displays real-time status on an I2C LCD screen, providing immediate feedback in case of a hazardous gas leak.
 
+![Image](https://github.com/user-attachments/assets/4eb15eff-3e0f-4f3f-9782-24d61b139321)
+
 ---
 
 ## 🛠️ Features
